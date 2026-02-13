@@ -1,32 +1,31 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media1.tenor.com/m/zHN2tNeE0oAAAAAC/stare-cat.gif",
+    "https://media1.tenor.com/m/7R-Aqnts07EAAAAC/sad-cat.gif",  // 1 confused
+    "https://media1.tenor.com/m/sQf0cT8G5soAAAAC/cat.gif",             // 2 pleading
+    "https://media1.tenor.com/m/t9PLz06a24wAAAAC/sad-cat.gif",             // 3 sad
+    "https://media1.tenor.com/m/zHN2tNeE0oAAAAAC/stare-cat.gif",      // 4 sadder
+    "https://media1.tenor.com/m/D_yuP4xjddsAAAAd/crying-vaughn-chat.gif",             // 5 devastated
+    "https://media1.tenor.com/m/4njUeq5al0MAAAAC/reaction-meme-stan-twitter.gif",               // 6 very devastated
+    "https://media1.tenor.com/m/bgNXF_ouKvQAAAAC/nub-nub-cat.gif", // 0 normal
 ]
 
-const noMessages = [
-    "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
-]
+const noMessages =[
+    "Não",
+"Tem certeza? 🤔",
+"Amorzinho, por favor... 🥺",
+"Se você disser não, vou ficar muito triste...",
+"Eu vou ficar muito triste... 😢",
+"Por favor??? 💔",
+"Não faz isso comigo...",
+"Última chance! 😭",
+"Você não consegue me pegar mesmo 😜"]
+
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
-]
+"tente dizer não primeiro... aposto que você quer saber o que acontece 😏",
+"vai lá, aperta não... só uma vez 👀",
+"você está perdendo 😈",
+"clica no não, eu te desafio 😏"]
 
 let yesTeasedCount = 0
 
